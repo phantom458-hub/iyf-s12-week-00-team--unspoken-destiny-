@@ -13,5 +13,19 @@
 </section>
 
 <section>
-  
+  <h2>Web Development</h2>
+
+**Web development** is the *best way to learn programming* because you see your code work instantly in the browser.
+
+**Main Parts:**
+- **Frontend** - What users see: *HTML, CSS, JavaScript*
+- **Backend** - Logic and data: *Node.js, Databases*
+- **Full-Stack** - *Both* combined
+
+**Why We Learn It:**
+1. Teaches *core logic* like **functions, events, and DOM**
+2. Builds **real projects** like *forms and Todo apps*
+3. Helps us learn **Git and teamwork**
+
+> *In short:* **Web development** makes you a *practical problem solver*.
 </section>
